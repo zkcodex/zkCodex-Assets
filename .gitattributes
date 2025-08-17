@@ -1,3 +1,0 @@
-Layerzero/layerzero_sybil.csv filter=lfs diff=lfs merge=lfs -text
-Layerzero/layerzero_sybil_part1.csv filter=lfs diff=lfs merge=lfs -text
-Layerzero/layerzero_sybil_part2.csv filter=lfs diff=lfs merge=lfs -text
